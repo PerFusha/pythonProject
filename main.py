@@ -4,7 +4,7 @@ import random
 import telebot
 from telebot import types, TeleBot
 
-bot: TeleBot = telebot.TeleBot('')
+bot: TeleBot = telebot.TeleBot('testgithab')
 
 
 # старт
